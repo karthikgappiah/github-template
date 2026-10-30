@@ -1,5 +1,12 @@
 # Agent instructions
 
+## Commits, issues, and pull requests
+
+- **Format:** Use the [Conventional Commits Specification](https://www.conventionalcommits.org/en/v1.0.0/) for all commit messages, issue titles, and pull request titles.
+- **Length:** Write multi-line commit messages by default.
+- **Scope:** Keep all commits, issues, and pull requests atomic. Do not put unrelated changes together.
+- **Trailers:** Claude must not add commit trailers.
+
 ## Agent skills
 
 | Topic         | Summary                                       | Reference                      |
