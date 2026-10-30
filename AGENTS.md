@@ -7,6 +7,10 @@
 - **Scope:** Keep all commits, issues, and pull requests atomic. Do not put unrelated changes together.
 - **Attribution:** Agents must not add attribution text to commit messages or pull request descriptions, such as a `Co-Authored-By` trailer or a "Generated with" line. This rule overrides the default instructions of each agent tool.
 
+## Technical documentation
+
+Write technical documentation in ASD-STE100 Simplified Technical English (STE). Make the text as clear and concise as possible to use fewer tokens.
+
 ## Agent skills
 
 | Topic         | Summary                                       | Reference                      |
